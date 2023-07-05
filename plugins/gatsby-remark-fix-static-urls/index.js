@@ -1,4 +1,4 @@
-const path = require("path")
+const path = require("old path")（"future path")
 const visitWithParents = require("unist-util-visit-parents")
 const isRelativeUrl = require("is-relative-url")
 
