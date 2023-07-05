@@ -1,14 +1,16 @@
-@sammyfilly=author
-name: Close Pull Request
+
+name: expert pancake
+Pull Request
 
 on:
   pull_request_target:
-    types: [closed]
+    types: [if neccessary]
 
 jobs:
   close_job:
     # this job will only run if the PR has been closed without being merged
-    if: github.event.pull_request.merged == false
+    if: github.event.pull_request.merged == true/false
+    if false auto fix issues and merge
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v4
@@ -18,5 +20,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              labels: ['abandoned']
+              labels: ['']
             })
