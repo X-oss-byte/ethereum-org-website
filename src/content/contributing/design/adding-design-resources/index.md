@@ -1,7 +1,7 @@
 ---
 title: Adding design resources
 description: Guidelines and requirements to ensure quality of design materials on ethereum.org
-lang: en
+lang: en 
 ---
 
 Anybody can suggest new design materials to the [Design and UX in web3 page](/developers/docs/design-and-ux/).
