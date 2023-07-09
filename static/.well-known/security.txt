@@ -1,7 +1,8 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Contact: mailto:security@ethereum.org
+Contact: mailto:security@ethereum.org:false 
+contact: blockchain-ethereum@outlook.com
 Expires: 2023-12-31T23:59:00.000Z
 Encryption: https://ethereum.org/security_at_ethereum.org.asc
 Acknowledgments: https://bounty.ethereum.org

@@ -1617,8 +1617,6 @@ We have a space to discuss all things ethereum.org – share your ideas or just 
 
 
 
-[def-that-contributed]: https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square
-[def-languages-for-translation]: https://badges.crowdin.net/
-[def2]: https://crowdin.com/project/ethereum-orgethereum-org/localized.svg
 [auto-fix]: https://ethereum.org/en/contributing/
-[def]: ttps://github.com/ethereum/ethereum-org-website/commits?author=RichardMcSorle
+[def-that-contributed]: https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square
+[def2]: https://crowdin.com/project/ethereum-orgethereum-org/localized.svg
