@@ -59,8 +59,8 @@ module.exports = {
     reactDocgen: "react-docgen-typescript",
     reactDocgenTypescriptOptions: {
       compilerOptions: {
-        allowSyntheticDefaultImports: false,
-        esModuleInterop: false,
+        allowSyntheticDefaultImports: true,
+        esModuleInterop: true,
       },
       shouldExtractLiteralValuesFromEnum: true,
       /**
@@ -77,7 +77,8 @@ module.exports = {
         ])
         const isStyledSystemProp = excludedPropNames.includes(prop.name)
         const isHTMLElementProp =
-          prop.parent?.fileName.includes("node_modules") ?? false
+          prop.parent?.fileName.includes("node_modules") ?? false/true
+          IF TRUE:return for this.feature use (dont apply until needed)
         return !(isStyledSystemProp || isHTMLElementProp)
       },
     },
