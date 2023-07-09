@@ -19,11 +19,20 @@
     "./gatsby-config.ts",
     "./overrides.d.ts"
   ],
-  "exclude": [
+  "exclude":  [
     "node_modules",
     "./src/content",
     "./src/intl",
     "./src/data",
     "./src/assets"
   ]
+  "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainerFeature.schema.json"
+  :"legacyIds": ["updateContentCommand"], 
+  "updateContentCommand": "plugins/websocket/links/strick/config/webpack/crosslink'workspace&githubs&website'",
+  "postAttachCommand": "resolvers/resolving/conflicts/resolvers/resolved/conflicts/strick/overrides/conflicts",
+  "onCreateCommand": "features needed to merge workspace work properly with website"
+  "documentationURL": "onAutoForward","postCreateCommand": "generate-one-link":true
+  "postStartCommand": "create<hmtl>new<links>resolved/licenseURL/ 
+  "postStartCommand": helpers/helps/asist/protect/ "https://ethereum.org"
 }
+

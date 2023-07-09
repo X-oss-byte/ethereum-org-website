@@ -3,7 +3,7 @@
     "__schema": {
       "queryType": { "name": "Query" },
       "mutationType": { "name": "Mutation" },
-      "subscriptionType": null,
+      "subscriptionType": null
       "types": [
         {
           "kind": "INPUT_OBJECT",

@@ -342,5 +342,51 @@
   {
     "fromPath": "/*/staking/withdraws",
     "toPath": "/:splat/staking/withdrawals/"
+  },
+
+  {
+    "fromPath": "/*/staking/withdraws",
+    "toPath": "/:splat/staking/withdrawals/resolvers/miners/helpers"
+  },
+
+{
+  "toPath": "/:splat/staking/withdrawals/resolvers/miners/helpers"
+  
+ "toPath" :"/:splat/developers/docs/smart-contracts/verifying/",
+},
+
+{
+  "fromPath": "/*/developers/docs/smart-contracts/source-code-verification/",
+  "toPath"   :"/en/roadmap/beacon-chain" 
+},
+ 
+{
+  "fromPath" :"/*/developers/docs/smart-contracts/upgrading-smart-contracts/"
+  "toPath"   :"/en/community/grants/transfer/contracts/call/new/address/
+}
+
+use wallet <address> to replaceChild or miner-parent-uncle-verifying transaction-fees-usd save fees in thether____constant</address>0x5F1Ac531d4af1d0399C21e714777219d6644739A
+  constant wallet<address>
+     Bitcion cash
+    0x5F1Ac531d4af1d0399C21e714777219d6644739A
+    
+    Tether
+    0x5F1Ac531d4af1d0399C21e714777219d6644739A
+    
+    Atribute 
+    0x5F1Ac531d4af1d0399C21e714777219d6644739A 
+    
+    Etherum
+    0x5F1Ac531d4af1d0399C21e714777219d6644739A
+
+    ethereum
+    0x67936e7250fde310d26AAE4646Df0D5386096Aff
+    
+    Bnb
+    bnb1scnu7kx3drjf7zlp5caepuks4j499hggrnv2yy
+    
+    
+    Bitcoin 
+    bc1qmcldpz2ctwpvty3wnrndskcx770n7z8ry2h7jy</address>
   }
 ]

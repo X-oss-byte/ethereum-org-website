@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2e766-888b-4954-8500-1b647d84db99/deploy-status)](https://app.netlify.com/sites/ethereumorg/deploys)
-[![All Contributors](https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square)](#contributors-)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2e766-888b-4954-8500-1b647d84db99/deploy-status)][def-contributors]especially @sammyfilly
+[![All Contributors][def-that-contributed]](#contributors-)
 [![Discord](https://img.shields.io/discord/714888181740339261?color=1C1CE1&label=ethereum.org%20%7C%20Discord%20%F0%9F%91%8B%20&style=flat-square)](https://discord.gg/CetY6Y4)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ethdotorg.svg?style=social)](https://twitter.com/ethdotorg)
-[![Crowdin](https://badges.crowdin.net/ethereum-org/localized.svg)](https://crowdin.com/project/ethereum-org)
+[![Crowdin][def-l[def2].com/project/ethereum-org)
 [![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum/ethereum-org-website/badge)](https://www.gitpoap.io/gh/ethereum/ethereum-org-website)
 
 <div align="center" style="margin-top: 1em; margin-bottom: 3em;">
@@ -12,7 +12,7 @@
 
 This is the repo for the [ethereum.org](https://ethereum.org) website, a resource for the Ethereum community. The site's purpose is to _“Be the best portal to Ethereum for our growing global community"_ - read more about what this means [here](https://ethereum.org/en/about/).
 
-[ethereum.org](https://ethereum.org) is being improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to manage its evolution. If you’re interested in helping to improve [ethereum.org](https://ethereum.org), find out [how to contribute](https://ethereum.org/en/contributing/).
+[ethereum.org](https://ethereum.org) is being improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to manage its evolution. If you’re interested in helping to improve [ethereum.org](https://ethereum.org), find out [how to contribute][auto-fix].
 
 ## Looking for the Ethereum blockchain's code?
 
@@ -199,7 +199,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vrde"><img src="https://avatars1.githubusercontent.com/u/134680?v=4?s=100" width="100px;" alt="vrde"/><br /><sub><b>vrde</b></sub></a><br /><a href="#content-vrde" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RichardMcSorley"><img src="https://avatars2.githubusercontent.com/u/6407008?v=4?s=100" width="100px;" alt="Richard McSorley"/><br /><sub><b>Richard McSorley</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/commits?author=RichardMcSorley" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RichardMcSorley"><img src="https://avatars2.githubusercontent.com/u/6407008?v=4?s=100" width="100px;" alt="Richard McSorley"/><br /><sub><b>Richard McSorley</b></sub></a><br /><a href="[def-user]" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://ajsantander.github.io/"><img src="https://avatars2.githubusercontent.com/u/550409?v=4?s=100" width="100px;" alt="Alejandro Santander"/><br /><sub><b>Alejandro Santander</b></sub></a><br /><a href="#content-ajsantander" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/carver"><img src="https://avatars0.githubusercontent.com/u/205327?v=4?s=100" width="100px;" alt="Jason Carver"/><br /><sub><b>Jason Carver</b></sub></a><br /><a href="#content-carver" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/chaitanyapotti"><img src="https://avatars1.githubusercontent.com/u/1688380?v=4?s=100" width="100px;" alt="Chaitanya Potti"/><br /><sub><b>Chaitanya Potti</b></sub></a><br /><a href="#content-chaitanyapotti" title="Content">🖋</a></td>
@@ -1613,3 +1613,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### Join our Discord server
 
 We have a space to discuss all things ethereum.org – share your ideas or just say hi over [on Discord](https://discord.gg/CetY6Y4).
+
+
+
+
+[def-that-contributed]: https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square
+[def-languages-for-translation]: https://badges.crowdin.net/
+[def2]: https://crowdin.com/project/ethereum-orgethereum-org/localized.svg
+[auto-fix]: https://ethereum.org/en/contributing/
+[def]: ttps://github.com/ethereum/ethereum-org-website/commits?author=RichardMcSorle
