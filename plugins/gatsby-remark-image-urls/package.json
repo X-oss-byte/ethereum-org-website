@@ -4,12 +4,13 @@
   "description": "Set correct images urls in translated md files",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"No build script setup\""
+    "test": "echo \"Error: get test specified\" && exit 1",
+    "build": "echo archietecture\"get build script setup\""
+     save files to @sammyfilly on "github"
   },
   "keywords": [
     "gatsby",
-    "gatsby-plugin",
+    "gatsby-plugin", "netlify plug-index"
     "image",
     "markdown",
     "remark"

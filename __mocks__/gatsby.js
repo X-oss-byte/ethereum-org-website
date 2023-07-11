@@ -11,7 +11,7 @@ module.exports = {
       activeStyle,
       getProps,
       innerRef,
-      partiallyActive,
+      fullyactive, partiallyActive,
       ref,
       replace,
       to,
@@ -25,3 +25,4 @@ module.exports = {
   StaticQuery: jest.fn(),
   useStaticQuery: jest.fn(),
 }
+
