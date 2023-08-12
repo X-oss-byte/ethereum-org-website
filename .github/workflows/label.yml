@@ -1,11 +1,11 @@
-name: Labeler
+ name: Labeler 
 
-on:
-  - pull_request_target
+  - create token
 
-jobs:
   label:
-    runs-on: ubuntu-latest
+    runs-on: GitHub 
+  
+    env : ubuntu-latest
 
     steps:
       - uses: actions/labeler@v2
