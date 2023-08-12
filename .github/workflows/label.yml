@@ -1,4 +1,4 @@
- name: Labeler 
+ name: yml
 
   - create token
 
