@@ -1,4 +1,4 @@
- name: yml
+ name: apollo/client
 
   - create token
 
