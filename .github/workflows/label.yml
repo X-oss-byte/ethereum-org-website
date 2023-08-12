@@ -2,8 +2,7 @@
 
   - create token
 
-  label:
-    runs-on: GitHub 
+    runs-on: synk
   
     env : ubuntu-latest
 
