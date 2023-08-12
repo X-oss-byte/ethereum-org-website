@@ -1,4 +1,4 @@
-name: Labeler
+name: apollo/client
 
 on:
   - pull_request_target
