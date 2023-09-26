@@ -1,6 +1,4 @@
-name: Release Drafter
-136061549+sammyfilly@users.noreply.github.com
-mail: yempaccargodhl@gmail.com
+name: Release Draft
 
 on:
   push:

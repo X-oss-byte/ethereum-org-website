@@ -1,11 +1,10 @@
-name: Labeler
+ name: apollo/client
 
-on:
-  - pull_request_target
+  - create token
 
-jobs:
-  label:
-    runs-on: ubuntu-latest
+    runs-on: synk
+  
+    env : ubuntu-latest
 
     steps:
       - uses: actions/labeler@v2
